@@ -73,3 +73,14 @@ Data visualization using charts
 CSV upload from Desktop Application
 
 Shared backend API
+
+## Live Application
+
+Frontend (Render):
+https://chemical-equipment-visualizer-ui.onrender.com
+
+Backend API (Render):
+https://chemical-equipment-visualizer-mdxc.onrender.com
+
+
+
