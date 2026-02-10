@@ -135,3 +135,8 @@ REST_FRAMEWORK = {
 # Redirect after login/logout
 LOGIN_REDIRECT_URL = "/api/upload/"
 LOGOUT_REDIRECT_URL = "/api/auth/login/"
+
+ALLOWED_HOSTS = ["*"]
+CSRF_TRUSTED_ORIGINS = [
+    "https://*.onrender.com"
+]
