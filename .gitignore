@@ -17,3 +17,9 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
+# Generated PDF reports & charts
+backend/pdf_reports/
+
+# Django compiled files (extra safety)
+backend/**/__pycache__/
